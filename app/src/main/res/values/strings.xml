@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">EASYFLEX</string>
+
+    <!-- Lista de Gasolinas -->
+    <string-array name="lista_gasolina">
+        <item>Gasolina Comum</item>
+        <item>Gasolina Aditivada</item>
+        <item>Gasolina Premium</item>
+    </string-array>
+
+    <!-- Lista de Álcool -->
+    <string-array name="lista_alcool">
+        <item>Álcool Comum</item>
+        <item>Álcool Aditivado</item>
+    </string-array>
+
+</resources>
